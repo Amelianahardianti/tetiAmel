@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">amelteti</string>
+    <string name="teti">TETI</string>
+    <string name="teknologi_edukasi_tumbuh_interaktif">Teknologi Edukasi Tumbuh Interaktif</string>
+    <string name="started_sub_title">
+        Selamat datang,ayo belajar!\n
+    </string>
+    <string name="illustration_img">illustration_img</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="login">Login</string>
+    <string name="login_sub_title">
+        <font color="#294B29"><b>Login</b></font>
+        jika kamu sudah punya akun.
+    </string>
+    <string name="login_email">Masukan Email atau Username</string>
+    <string name="masukan_passwordtxt">Masukan Password</string>
+    <string name="passwordtxt">Pasword :</string>
+    <string name="login_forgot_pw">Forgot Password?</string>
+    <string name="saya_tidak_punya_akun">
+        Saya tidak punya akun.
+        <font color="#294B29"><b>Register</b></font>
+    </string>
+    <string name="register">Register</string>
+    <string name="register_untuk_membuat_akun">
+       <font color="#294B29">Register</font>
+        untuk membuat akun.
+    </string>
+    <string name="masukan_username">masukan username</string>
+    <string name="register_email">masukan email</string>
+    <string name="masukan_passwordre">masukan password</string>
+    <string name="confirm_pwregis">konfirmasi password</string>
+    <string name="saya_punya_akun">
+     Saya sudah punya akun.
+        <font color="#294B29"><b>Login</b></font>
+    </string>
+    <string name="btnregister">Register</string>
+    <string name="email">Email :</string>
+    <string name="reset_password">reset password</string>
+    <string name="reset_pw_sub_tittle">
+        <font color="#294B29">Reset</font>
+        password anda
+    </string>
+
+    <string name="back_to_login">
+        Kembali ke bagian.
+        <font color ="#294B29">Login</font>
+    </string>
+    <string name="reset">reset</string>
+</resources>
